@@ -1,0 +1,13 @@
+D:\Projects\c#\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.exe
+D:\Projects\c#\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.deps.json
+D:\Projects\c#\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.runtimeconfig.json
+D:\Projects\c#\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.runtimeconfig.dev.json
+D:\Projects\c#\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.dll
+D:\Projects\c#\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.pdb
+D:\Projects\c#\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.csprojAssemblyReference.cache
+D:\Projects\c#\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.csproj.CoreCompileInputs.cache
+D:\Projects\c#\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.AssemblyInfoInputs.cache
+D:\Projects\c#\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.AssemblyInfo.cs
+D:\Projects\c#\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.dll
+D:\Projects\c#\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.pdb
+D:\Projects\c#\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.genruntimeconfig.cache
